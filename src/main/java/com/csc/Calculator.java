@@ -72,7 +72,19 @@ public class Calculator {
     int sum = Arrays.stream(array).sum();
     return sum;
   }
+  public void add() {
 
+  }
+  public int[] add5(int [] array) {
+    Stream.of(array);
+    array = Arrays.stream(array).map(number -> number + 5).toArray();
+    return array;
+  }
+  public int[] square(int[] array) {
+    Stream.of(array);
+    array = Arrays.stream(array).map(number -> number * number).toArray();
+    return array;
+  }
   public static void main(String[] args) {
     System.out.println("This class can house your driver program and / or your functions.");
   }

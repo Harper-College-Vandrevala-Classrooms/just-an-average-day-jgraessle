@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestCalculator" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-12-08T23:37:06" hostname="JEROMESLAPTOP" time="0.045">
+<testsuite name="com.csc.TestCalculator" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-12-11T02:19:37" hostname="JEROMESLAPTOP" time="0.071">
   <properties/>
-  <testcase name="sumStreamWorks()" classname="com.csc.TestCalculator" time="0.018"/>
+  <testcase name="sumStreamWorks()" classname="com.csc.TestCalculator" time="0.028"/>
   <testcase name="maxForWorks()" classname="com.csc.TestCalculator" time="0.001"/>
   <testcase name="sumForWorks()" classname="com.csc.TestCalculator" time="0.001"/>
   <testcase name="avgForWorks()" classname="com.csc.TestCalculator" time="0.001"/>
-  <testcase name="maxStreamWorks()" classname="com.csc.TestCalculator" time="0.003"/>
+  <testcase name="add5Works()" classname="com.csc.TestCalculator" time="0.01"/>
+  <testcase name="maxStreamWorks()" classname="com.csc.TestCalculator" time="0.002"/>
   <testcase name="minStreamWorks()" classname="com.csc.TestCalculator" time="0.002"/>
-  <testcase name="avgStreamWorks()" classname="com.csc.TestCalculator" time="0.004"/>
-  <testcase name="minForWorks()" classname="com.csc.TestCalculator" time="0.0"/>
-  <testcase name="itWorks()" classname="com.csc.TestCalculator" time="0.002"/>
+  <testcase name="squareWorks()" classname="com.csc.TestCalculator" time="0.001"/>
+  <testcase name="avgStreamWorks()" classname="com.csc.TestCalculator" time="0.003"/>
+  <testcase name="minForWorks()" classname="com.csc.TestCalculator" time="0.001"/>
+  <testcase name="itWorks()" classname="com.csc.TestCalculator" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
